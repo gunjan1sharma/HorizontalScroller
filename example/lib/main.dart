@@ -1,7 +1,7 @@
 // example/lib/main.dart
 import 'package:flutter/material.dart';
 // Import the public API of your package:
-import 'package:hori_scroller/HorizontalScroller.dart'; // package name you chose
+import 'package:HorizontalScroller/HorizontalScroller.dart'; // package name you chose
 
 void main() {
   runApp(const ExampleApp());
