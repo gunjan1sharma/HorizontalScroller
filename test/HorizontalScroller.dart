@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:HorizontalScroller/HorizontalScroller.dart';
+import 'package:horizontal_scroller/HorizontalScroller.dart';
 
 /// Sample data class for testing
 class TickerDetails {
