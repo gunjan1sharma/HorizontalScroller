@@ -1,7 +1,8 @@
-name: hori_scroller
-description: "A new Flutter package project."
+name: HorizontalScroller
+description: "A robust, plug-and-play horizontal auto-scrolling widget for Flutter, designed for high performance and flexibility. Ideal for tickers, news feeds, image carousels, and promotional banners**. Optimized for both **iOS and Android."
 version: 0.0.1
-homepage:
+homepage: https://github.com/gunjan1sharma/HorizontalScroller
+repository: https://github.com/gunjan1sharma/HorizontalScroller
 
 environment:
   sdk: ^3.6.1
