@@ -1,4 +1,4 @@
-name: HorizontalScroller
+name: horizontal_scroller
 description: "A robust, plug-and-play horizontal auto-scrolling widget for Flutter, designed for high performance and flexibility. Ideal for tickers, news feeds, image carousels, and promotional banners**. Optimized for both **iOS and Android."
 version: 0.0.1
 homepage: https://github.com/gunjan1sharma/HorizontalScroller
